@@ -1,0 +1,12 @@
+var locs = {
+"type": "FeatureCollection",
+"name": "laundromatlocts",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Laundromat 1", "location": "1914 Southeast 10th Avenue Amarillo, TX, 79102, United States", "lat": 35.20014461, "lon": -101.8153672, "google_map": "https:\/\/www.google.com\/maps\/place\/1914+SE+10th+Ave,+Amarillo,+TX+79102,+USA\/@35.2001392,-101.8159162,19z\/data=!3m1!4b1!4m5!3m4!1s0x87014f214a3accd3:0xeb2da0b0342da230!8m2!3d35.2001392!4d-101.815369" }, "geometry": { "type": "Point", "coordinates": [ -101.815367199999969, 35.200144610000052 ] } },
+{ "type": "Feature", "properties": { "name": "Laundromat 2", "location": "2601 Patterson Drive Amarillo, TX, 79109, United States", "lat": 35.18523601, "lon": -101.871929, "google_map": "https:\/\/www.google.com\/maps\/place\/2601+Patterson+Dr,+Amarillo,+TX+79109,+USA\/@35.1852385,-101.8724776,19z\/data=!3m1!4b1!4m5!3m4!1s0x87014fc67fd3caff:0x712c8769c559251a!8m2!3d35.1852385!4d-101.8719304" }, "geometry": { "type": "Point", "coordinates": [ -101.871929, 35.18523601000004 ] } },
+{ "type": "Feature", "properties": { "name": "Laundromat 3", "location": "1909 Bell Street Amarillo, TX, 79106, United States", "lat": 35.19217453, "lon": -101.9021166, "google_map": "https:\/\/www.google.com\/maps?sll=35.192174,-101.902116&q=1909+Bell+Street+Amarillo,+TX,+79106,+United+States&z=14" }, "geometry": { "type": "Point", "coordinates": [ -101.902116599999943, 35.192174530000045 ] } },
+{ "type": "Feature", "properties": { "name": "Laundromat 4", "location": "4615 South Western Street Amarillo, TX, 79109, United States", "lat": 35.16074342, "lon": -101.8832482, "google_map": "https:\/\/www.google.com\/maps?sll=35.160723,-101.883295&q=4615+South+Western+Street+Amarillo,+TX,+79109,+United+States&z=12" }, "geometry": { "type": "Point", "coordinates": [ -101.883248199999969, 35.160743420000074 ] } },
+{ "type": "Feature", "properties": { "name": "Laundromat 5", "location": "3501 S Washington Street, Amarillo, Texas, 79109", "lat": 35.17725665, "lon": -101.8481919, "google_map": "https:\/\/www.google.com\/maps\/place\/3501+S+Washington+St,+Amarillo,+TX+79109,+USA\/@35.1772525,-101.8503803,17z\/data=!3m1!4b1!4m5!3m4!1s0x87014f9f2482b1bb:0x6b213b3aadb31626!8m2!3d35.1772525!4d-101.8481916" }, "geometry": { "type": "Point", "coordinates": [ -101.848191899999961, 35.177256650000061 ] } }
+]
+}

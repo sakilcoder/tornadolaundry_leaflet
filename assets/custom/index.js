@@ -39,7 +39,7 @@ var overlays = {
 var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
 
 L.easyButton('fa-home fa-lg', function () {
-    map.setView([35.320, -101.895], 12);
+    map.setView([35.220, -101.895], 12);
     // map.fitBounds(aoiLayer.getBounds());
 }).addTo(map);
 
